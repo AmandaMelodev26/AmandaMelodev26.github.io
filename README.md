@@ -29,3 +29,6 @@ UNIASSELVI
 ## 📫 Contato
 
 📧 amandamelodev@gmail.com
+
+meus projetos:
+www.fenixmaquinaspesadas.com.br
